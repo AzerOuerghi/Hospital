@@ -39,11 +39,11 @@ public class Hopital {
     public static void main(String[] args) {
         Hopital hopital = new Hopital();
 
-        Medecin medecin1 = new Medecin(1, "Dr. Smith", "John", 101);
-        Medecin medecin2 = new Medecin(1, "Dr. Johnson", "Alice", 102);
+        Medecin medecin1 = new Medecin(1, "Dr. labyedh", "slimen", 101);
+        Medecin medecin2 = new Medecin(1, "Dr. sbou3i", "labyedh ", 102);
 
-        Patient patient1 = new Patient(101, "Doe", "Jane", 1001);
-        Patient patient2 = new Patient(102, "Johnson", "Bob", 1002);
+        Patient patient1 = new Patient(101, "3allela", "Jane", 1001);
+        Patient patient2 = new Patient(102, "oussema", "Bob", 1002);
         Patient patient3 = new Patient(102, "Azer", "Bob", 1002);
 
 
